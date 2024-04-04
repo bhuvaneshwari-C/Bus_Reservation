@@ -17,7 +17,7 @@ public class Booking {
         passengerName= scanner.next();
         System.out.println("Enter Bus No: ");
         busNo =scanner.nextInt();
-        System.out.println("Enter Date dd-mm-yyyy ");
+        System.out.println("Enter Date dd-mm-yyyy test ");
         String dateInput =scanner.next();
         SimpleDateFormat dateFormat=new SimpleDateFormat("dd-MM-yyyy");
 
